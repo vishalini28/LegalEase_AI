@@ -1,0 +1,7 @@
+{
+  "name": "LegalEase AI",
+  "description": "An AI-powered tool to demystify complex legal documents. Get clear summaries, explanations of jargon, and answers to your questions to make informed decisions and protect yourself from legal and financial risks.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
